@@ -1,0 +1,1 @@
+To allow for dynamic and powerful apps Nexus clients must support WASM. WASM provides a host API which allows for WASM applications to interact with the user's avatar, make the world more interactive amongst other things.

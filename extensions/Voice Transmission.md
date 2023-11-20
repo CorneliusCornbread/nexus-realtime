@@ -1,0 +1,4 @@
+Voice transmission is an optional extension to the nexus-realtime protocol. The voice transmission is encoded using the [Opus audio codec](https://opus-codec.org/) and is piped through the voice [[Audio Channels|audio channel]], implemented by the client.
+
+# Custom Voice Transmission
+With the implementation of [[Audio Channels]] on the client, your application can optionally implement its own voice transmission standard. This is done by disabling the standard voice transmission in your [[Server Capabilities Querying|server capabilities query]] and implementing your own solution via the [[WASM Scripting API]] and piping your audio into the client's [[Audio Channels#Voice|voice audio channel]].  

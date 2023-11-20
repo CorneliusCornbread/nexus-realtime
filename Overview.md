@@ -8,3 +8,4 @@ The Nexus-Realtime protocol uses a protocol known as [QUIC](https://quicwg.org/)
 
 ### Footnote 1
 Currently this protocol only supports server architectures. It's possible in the near future this could change, however, to limit the scope of this specification it will be limited only to client-server based communications as opposed to P2P communications.
+
