@@ -1,3 +1,5 @@
 .obsidian/workspaces.json
 .obsidian/workspace-mobile.json
 .trash/
+
+.obsidian/plugins/ollama/main.js

@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbaed2e86f0e268b",
+            "id": "10ae3a04533fa3f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "client/wasm/WASM Scripting API.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "10ae3a04533fa3f7",
+            "id": "3ed2d0e7430b96dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "client/wasm/WASM Scripting API.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,26 +37,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Voice Transmission.md",
+                "file": "client/Audio Channels.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e620a1c5dcdc6b7b",
+            "id": "6b4b17b490a90025",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initial Connection Handshake.md",
+                "file": "Server Capabilities Querying.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "client/wasm/WASM Scripting API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "client/wasm/WASM Scripting API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "client/wasm/WASM Scripting API.md"
               }
             }
           }
@@ -183,13 +182,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10ae3a04533fa3f7",
+  "active": "41e4fedecb267bd4",
   "lastOpenFiles": [
-    "Voice Transmission.md",
-    "Initial Connection Handshake.md",
-    "Overview.md",
-    "Untitled",
+    "client/wasm/api",
+    "client/wasm/Untitled.md",
+    "client/wasm/WASM Scripting API.md",
+    "client/wasm",
     "README.md",
+    "Server Capabilities Querying.md",
+    "client/Audio Channels.md",
+    "extensions/Voice Transmission.md",
+    "Overview.md",
+    "Initial Connection Handshake.md",
+    "client",
+    "extensions",
+    "Power sets.md",
     "client",
     "server"
   ]
